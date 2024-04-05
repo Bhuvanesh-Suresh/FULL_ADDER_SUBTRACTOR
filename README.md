@@ -125,7 +125,8 @@ endmodule
 
 **FULL ADDER**
 
-![output waveform full adder](https://github.com/Bhuvanesh-Suresh/FULL_ADDER_SUBTRACTOR/assets/145742661/22957ef7-c835-4706-bec4-717a9eb0762c)
+![output waveform full adder](https://github.com/Bhuvanesh-Suresh/FULL_ADDER_SUBTRACTOR/assets/145742661/ea85173a-c32d-40e4-9263-08697c6b57c2)
+
 
 **FULL SUBTRACTOR**
 
